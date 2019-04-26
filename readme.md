@@ -2,6 +2,8 @@
 
 这个项目是使用 [yii2-queue](https://github.com/yiisoft/yii2-queue) 做的轻量级MQ,仅仅用于测试说明,主要功能是用队列发送邮件.
 
+转载https://blog.lerzen.com/2018/03/08/yii2-queue%E5%AE%9E%E7%8E%B0%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/
+
 ## 使用
 
 1. 安装扩展
